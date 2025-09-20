@@ -1,5 +1,7 @@
 pandas
 numpy
-fastapi
-uvicorn
+fastapi          #FastAPI is a modern web framework for building APIs with Python
+uvicorn          #uvicorn is an ASGI server for FastAPI
+pydantic         #pydantic is a data validation and settings management library
 ipykernel
+httpx            #httpx is an HTTP client for Python

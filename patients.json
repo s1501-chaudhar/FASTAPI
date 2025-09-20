@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "city": "Mumbai",
+    "age": 28,
+    "gender": "Male",
+    "height": 175,
+    "weight": 72,
+    "bmi": 23.5,
+    "verdict": "Healthy"
+  },
+  {
+    "id": 2,
+    "name": "Sneha Verma",
+    "city": "Delhi",
+    "age": 34,
+    "gender": "Female",
+    "height": 160,
+    "weight": 68,
+    "bmi": 26.6,
+    "verdict": "Overweight"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Mehta",
+    "city": "Bengaluru",
+    "age": 45,
+    "gender": "Male",
+    "height": 168,
+    "weight": 82,
+    "bmi": 29.1,
+    "verdict": "Overweight"
+  },
+  {
+    "id": 4,
+    "name": "Priya Iyer",
+    "city": "Chennai",
+    "age": 52,
+    "gender": "Female",
+    "height": 155,
+    "weight": 90,
+    "bmi": 37.5,
+    "verdict": "Obese"
+  },
+  {
+    "id": 5,
+    "name": "Rahul Singh",
+    "city": "Pune",
+    "age": 22,
+    "gender": "Male",
+    "height": 180,
+    "weight": 65,
+    "bmi": 20.1,
+    "verdict": "Healthy"
+  }
+]
