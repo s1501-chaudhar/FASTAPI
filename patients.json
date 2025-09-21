@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id":1,
     "name": "Aarav Sharma",
     "city": "Mumbai",
     "age": 28,
@@ -53,5 +53,60 @@
     "weight": 65,
     "bmi": 20.1,
     "verdict": "Healthy"
+  },
+  {
+    "id":6,
+    "name": "Priya Darshani",
+    "city": "Odisa",
+    "age": 25,
+    "gender": "Female",
+    "height": 155,
+    "weight": 90,
+    "bmi": 37.5,
+    "verdict": "Obese"
+  },
+  {
+    "id": 7,
+    "name": "Rahul Thakur",
+    "city": "MP",
+    "age": 22,
+    "gender": "Male",
+    "height": 180,
+    "weight": 65,
+    "bmi": 20.1,
+    "verdict": "Healthy"
+  },
+  {
+    "id": 9,
+    "name": "Neha Jethwani",
+    "city": "Pune",
+    "age": 25,
+    "gender": "Female",
+    "height": 180,
+    "weight": 65,
+    "bmi": 20.1,
+    "verdict": "Healthy"
+  },
+  {
+    "id": 10,
+    "name": "Di shardul",
+    "age": 25,
+    "city": "Mumbai",
+    "height": 180.0,
+    "weight": 63.0,
+    "gender": "male",
+    "bmi": 19.44,
+    "verified": "Healthy"
+  },
+  {
+    "id": 8,
+    "name": "Disha Bhojwani",
+    "age": 22,
+    "city": "Mumbai",
+    "height": 175.5,
+    "weight": 54.0,
+    "gender": "female",
+    "bmi": 17.53,
+    "verified": "Underweight"
   }
 ]
